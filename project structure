@@ -1,0 +1,23 @@
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.js
+│   │   │   └── Signup.js
+│   │   ├── Todo/
+│   │   │   ├── Task.js
+│   │   │   └── TaskList.js
+│   ├── App.js
+│   └── index.js
+
+frontend/
+├── src/
+│   ├── components/
+│   │   ├── Auth/
+│   │   │   ├── Login.js
+│   │   │   └── Signup.js
+│   │   ├── Todo/
+│   │   │   ├── Task.js
+│   │   │   └── TaskList.js
+│   ├── App.js
+│   └── index.js
